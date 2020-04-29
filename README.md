@@ -13,4 +13,4 @@ Bana link vermene gerek yok. Ödevlerini Github hesabından kontrol edeceğim. E
 6) Sizden istediğim ```9Sinif_4Odev.ipynb```  dosyasının içindeki ödevleri yapmanız.
 7) Gelecek hafta Numpy ve matplotlib ile ilgili ödev vereceğim. Numpy, Python'da matematiksel işlemleri hızlandıran bir kütüphane. Matplotlib ise Python'da grafik çizmek için kullanılan bir kütüphane. Genel bir giriş için [buraya](https://cs231n.github.io/python-numpy-tutorial/https://cs231n.github.io/python-numpy-tutorial/) bakabilirsin. 
 
-**Hocam ödev bitmiştir [DRİVE LİNKİ](https://drive.google.com/open?id=1dhx5CJbOf6UveB-pjQYwefSsZgax40IJ) burdadır.
+**Hocam ödev bitmiştir [DRİVE LİNKİ](https://drive.google.com/open?id=1dhx5CJbOf6UveB-pjQYwefSsZgax40IJ) burdadır.**
